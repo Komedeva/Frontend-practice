@@ -1,14 +1,18 @@
-Frontend Practice
+HEAD Frontend Practice
 
-🧪 Навчальний проєкт з HTML та CSS
+🧪 Training project with HTML and CSS
 
-📄 Про проєкт:
+📄 About the project:
 
-Цей проєкт створений для практики основних HTML-елементів і CSS-стилів.  
-Він містить просту вебсторінку з розміткою, зображенням та стилізацією.
+This project is created for practicing basic HTML elements and CSS styles. It
+contains a simple web page with markup, images, and styling.
 
-🔧 Технології:
+🔧 Technologies:
 
 - HTML5
 - CSS3
 - JS
+
+Frontend-practice
+
+HTML, CSS practice 769f1a3668df17602b3f0e7b1533da97e32c4c6c
